@@ -16,7 +16,7 @@ Welcome to the **Job Search System Backend** repository! This project serves as 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/job-search-system-backend.git
+   git clone https://github.com/surya752/job-search-system-backend.git
    ```
 2. Install dependencies:
    ```bash
